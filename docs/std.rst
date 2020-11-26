@@ -1,9 +1,11 @@
 Standard Module
 ===============
 
-Standard Module contains Functions and Sub Procedures for some of the frequently
+`Standard Module`_ contains Functions and Sub Procedures for some of the frequently
 used processes
 
+You can download the source code from the below path and import into excel:
+https://github.com/SWARUP-Selvaraj/Excel/blob/master/VBA/Module/Standard.bas
 
 Working with Tables
 -------------------
@@ -389,3 +391,4 @@ fetchFile
 .. _Shell: https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/shell-function
 .. _Shell Constants: https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/shell-constants
 .. _Sort: https://docs.microsoft.com/en-us/office/vba/api/excel.range.sort
+.. _Standard Module: https://github.com/SWARUP-Selvaraj/Excel/blob/master/VBA/Module/Standard.bas
