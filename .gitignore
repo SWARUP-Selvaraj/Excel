@@ -1,0 +1,14 @@
+# Sphinx documentation
+docs/_build/
+doc/_build/
+
+# Translations
+*.mo
+*.pot
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
